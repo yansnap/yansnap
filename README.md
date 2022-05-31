@@ -4,9 +4,12 @@
 
 </p>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<img alt=”React” src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<a href="https://cdn3.riastatic.com/photosnew/auto/photo/audi_rs5__431915308f.webp">
+  <img src="https://aleen42.github.io/badges/src/audi.svg" />
+</a>
+
 
 
 
