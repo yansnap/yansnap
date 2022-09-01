@@ -4,8 +4,6 @@
 
 </p>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 **CLICK ON AUDI:** <a href="https://cdn.kapwing.com/collections/Leonardo-Dicaprio-Cheers-zbp4s.jpg">
   <img src="https://aleen42.github.io/badges/src/audi.svg" />
 </a>
