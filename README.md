@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/yan-kozhyn-26036b148/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/yupyan">
+  <a href="https://t.me/yansnap">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
     <p><b>Resolved tasks:</b></p>
