@@ -15,9 +15,9 @@
   <a href="https://www.codewars.com/users/yan_snap">
   <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/yansnap">
+  /* <a href="https://www.hackerrank.com/yansnap">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
+  </a>  */
     
   </div>
 </div>
